@@ -33,7 +33,7 @@ A distribuição territorial seguiu a proporção da densidade populacional.
 
 A seguir, um print do antes e depois do tratamento na base de dados:
 
-![Aqui está o print](https://github.com/BitencourtVitor/bitencourtvitor/blob/main/Viol%C3%AAncia%20Dom%C3%A9stica%20na%20Col%C3%B4mbia/Antes_Depois%20do%20Tratamento.png)
+![Aqui está o print](https://github.com/BitencourtVitor/Violencia_Domestica/blob/main/images/Antes_Depois%20do%20Tratamento.png)
 
 ###### Observação: alguns dados como departamento e município precisaram passar por uma adaptação na sua acentuação. ATLÃNTICO (incorreto) passou a ser Atlántico (correto), por exemplo. Isso foi possível graças ao encoding UTF-8 durante o tratamento.
 
@@ -41,4 +41,4 @@ A seguir, um print do antes e depois do tratamento na base de dados:
 
 Prestando atenção na parte inferior do painel é possível notar que a distribuição visual segue a proporção de cores da bandeira da Colômbia no sentido vertical (amarelo, azul e vermelho).
 
-![Aqui há um print do Dashboard](https://github.com/BitencourtVitor/bitencourtvitor/blob/main/Viol%C3%AAncia%20Dom%C3%A9stica%20na%20Col%C3%B4mbia/print_dashboard.png)
+![Aqui há um print do Dashboard](https://github.com/BitencourtVitor/Violencia_Domestica/blob/main/images/print_dashboard.png)
